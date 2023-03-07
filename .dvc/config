@@ -1,0 +1,4 @@
+[core]
+    remote = svs_remote
+['remote "svs_remote"']
+    url = ssh://kyc3550@10.10.1.33/home/kyc3550/workspace/ML/dvc_cicd_storage
